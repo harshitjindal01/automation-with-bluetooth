@@ -1,4 +1,4 @@
-
+please download code don't copy from readme 
 #include <SoftwareSerial.h>
  
 SoftwareSerial mySerial(2, 3);
